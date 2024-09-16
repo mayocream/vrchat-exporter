@@ -9,6 +9,9 @@ Features:
 ## Usage
 
 ```bash
+go install github.com/mayocream/vrchat-exporter@latest
+
+vrchat-exporter --help
 Usage of vrchat-exporter:
       --interval int                   Interval in seconds to push metrics to the Pushgateway (default 60)
       --listen string                  Address to listen on for HTTP requests (default ":8080")
