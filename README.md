@@ -2,6 +2,8 @@
 
 VRChat metrics exporter.
 
+![](sample.png)
+
 Features:
 - [x] Generate metrics only on pull
 - [x] Push metrics to Prometheus Pushgateway
